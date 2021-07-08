@@ -5,4 +5,10 @@
     <string name="ctof">Celsius to Fahrenheits</string>
     <string name="entertemperature">Enter Temperature</string>
 <string name="result">Conversion Result</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="hint">0.0</string>
+    <string name="convert2">CONVERT</string>
+    <string name="refresh">Refresh</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="input">Enter Temperature in Celsius</string>
 </resources>
